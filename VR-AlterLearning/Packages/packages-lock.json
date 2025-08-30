@@ -72,16 +72,6 @@
       },
       "url": "https://packages.unity.com"
     },
-    "com.meta.xr.sdk.movement": {
-      "version": "file:/Users/anwarsafei/Downloads/Unity-Movement-78.0.0",
-      "depth": 0,
-      "source": "local",
-      "dependencies": {
-        "com.unity.burst": "1.8.18",
-        "com.unity.textmeshpro": "3.0.6",
-        "com.unity.ugui": "1.0.0"
-      }
-    },
     "com.meta.xr.sdk.platform": {
       "version": "77.0.0",
       "depth": 1,
@@ -115,7 +105,7 @@
       "url": "https://packages.unity.com"
     },
     "com.unity.burst": {
-      "version": "1.8.18",
+      "version": "1.8.17",
       "depth": 1,
       "source": "registry",
       "dependencies": {
